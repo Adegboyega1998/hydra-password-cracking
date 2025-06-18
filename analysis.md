@@ -1,4 +1,4 @@
-# 🔍 Project 2 Analysis – SSH Password Cracking with Hydra
+# 🔍 Project Analysis – SSH Password Cracking with Hydra
 
 ## 🧪 Summary
 
