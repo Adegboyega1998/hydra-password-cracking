@@ -20,7 +20,6 @@ This setup guide walks through the entire process of using Hydra to perform a br
 
 **On Kali Linux:**
 
-```bash
 cd ~
 mkdir hydra-project
 cd hydra-project
